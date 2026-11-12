@@ -1,0 +1,11 @@
+# Build output, local caches, credentials
+build/
+.gradle/
+logs/
+run/
+*.log
+.env
+*.pem
+*.p12
+.idea/
+.vscode/
