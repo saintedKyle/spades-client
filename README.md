@@ -15,6 +15,10 @@
   <a href="https://spades.clienturl.net/#install">Install</a>
 </p>
 
+<p align="center">
+  <img src="screenshots/promo-1280x720.png" alt="Spades Client" width="720">
+</p>
+
 ---
 
 ## What this is
@@ -61,16 +65,6 @@ Profiles and layouts are written to `.minecraft/config/spades`. Delete that fold
 
 715 settings are exposed in the menu, and every HUD element can be dragged, scaled and
 toggled from **Edit HUD**.
-
-## Screenshots
-
-| HUD | Appearance | Configs |
-|---|---|---|
-| ![HUD](screenshots/hud.webp) | ![Appearance](screenshots/appearance.webp) | ![Configs](screenshots/configs.webp) |
-
-<p align="center">
-  <img src="screenshots/promo-1280x720.png" alt="Spades Client banner" width="720">
-</p>
 
 ## Version
 
