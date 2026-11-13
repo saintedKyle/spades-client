@@ -15,10 +15,6 @@
   <a href="https://spades.clienturl.net/#install">Install</a>
 </p>
 
-<p align="center">
-  <img src="screenshots/promo-1280x720.png" alt="Spades Client" width="720">
-</p>
-
 ---
 
 ## What this is
